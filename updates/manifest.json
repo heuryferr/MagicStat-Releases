@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.2",
   "min_supported_version": "1.0.0",
   "release_date": "2026-09-09",
   "required": false,
   "display": {
-    "title": "Magic Stat 1.0.1 is here",
+    "title": "Magic Stat 1.0.2 is here",
     "subtitle": "A smoother, faster Magic Stat — now available for you.",
     "message": "We've been hard at work polishing the experience: the app starts faster, large analyses run more smoothly and the SEM Builder now ships with complete ready-to-run example models. This update is included in your license — free of charge.",
     "highlights": [
@@ -14,5 +14,11 @@
       "General polish for a more fluid experience across the app"
     ]
   },
-  "installers": {}
+  "installers": {
+    "macos": {
+      "url": "https://github.com/heuryferr/MagicStat-Releases/releases/download/v1.0.1/MagicStat-1.0.1.pkg",
+      "sha256": "8cab7eccf674e0af28f9d0fad786f15f731616d10cb121a0ef1ca5ccf7d59a2f",
+      "size_bytes": 381707374
+    }
+  }
 }
