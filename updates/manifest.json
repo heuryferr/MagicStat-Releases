@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "latest_version": "1.0.2",
+  "latest_version": "1.0.1",
   "min_supported_version": "1.0.0",
   "release_date": "2026-09-09",
   "required": false,
   "display": {
-    "title": "Magic Stat 1.0.2 is here",
+    "title": "Magic Stat 1.0.1",
     "subtitle": "A smoother, faster Magic Stat — now available for you.",
-    "message": "We've been hard at work polishing the experience: the app starts faster, large analyses run more smoothly and the SEM Builder now ships with complete ready-to-run example models. This update is included in your license — free of charge.",
+    "message": "Magic Stat 1.0.1 — the current release.",
     "highlights": [
       "Faster startup and smoother performance on large datasets",
       "SEM Builder now includes ready-to-run examples: direct effects, mediation, moderation and the full 12-construct model",
