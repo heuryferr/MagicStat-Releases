@@ -1,7 +1,3 @@
 {
-  "schema_version": 1,
-  "display": {
-    "subtitle": "The full annual license is US$ 79.",
-    "message": "Magic Stat is US$ 79 a year: every analysis, on macOS, Windows and Linux, with the built-in AI assistant. The price is already live on getmagicstat.com and at checkout — there is no coupon code to enter."
-  }
+  "schema_version": 1
 }
