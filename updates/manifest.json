@@ -1,13 +1,7 @@
 {
   "schema_version": 1,
   "display": {
-    "title": "Magic Stat 4.5.1 is here — and a note for you",
-    "subtitle": "For a limited time, the full annual license is US$ 99 (normally US$ 990 a year).",
-    "message": "Magic Stat normally costs US$ 990 a year. Many researchers around the world loved it — and wrote to us asking for an easier way to bring a colleague, a student, a whole lab on board. We listened: for a limited time, the full annual license is US$ 99. Everyone is welcome. The offer is already live on our site (getmagicstat.com) and at checkout — there is no coupon code to enter.",
-    "highlights": [
-      "A lighter Magic Stat: about 25% smaller than the previous build (roughly 145 MB)",
-      "Looping Plots and Combine Plots — many figures at once, several charts on one page",
-      "Every analysis lands in the Analysis Report, with tables and figures"
-    ]
+    "subtitle": "The full annual license is US$ 79.",
+    "message": "Magic Stat is US$ 79 a year: every analysis, on macOS, Windows and Linux, with the built-in AI assistant. The price is already live on getmagicstat.com and at checkout — there is no coupon code to enter."
   }
 }
